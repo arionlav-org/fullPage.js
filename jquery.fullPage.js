@@ -3,6 +3,7 @@
  * https://github.com/alvarotrigo/fullPage.js
  * @license MIT licensed
  *
+ * arionlav
  * Copyright (C) 2015 alvarotrigo.com - A project by Alvaro Trigo
  */
 (function(global, factory) {
